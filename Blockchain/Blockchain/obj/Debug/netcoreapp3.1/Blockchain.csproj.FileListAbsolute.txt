@@ -1,0 +1,17 @@
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp3.1\Blockchain.exe
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp3.1\Blockchain.deps.json
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp3.1\Blockchain.runtimeconfig.json
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp3.1\Blockchain.runtimeconfig.dev.json
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp3.1\Blockchain.dll
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp3.1\Blockchain.pdb
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp3.1\Blockchain.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp3.1\Blockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp3.1\Blockchain.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp3.1\Blockchain.AssemblyInfo.cs
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp3.1\Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp3.1\Blockchain.csproj.CopyComplete
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp3.1\Blockchain.dll
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp3.1\Blockchain.pdb
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp3.1\Blockchain.genruntimeconfig.cache
+C:\Users\chris\Documents\IS413\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
